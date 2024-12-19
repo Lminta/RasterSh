@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diese", "Diese\Diese.csproj", "{7E252063-7A87-4505-B097-1DB7A49F7B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireSpinner", "WireSpinner\WireSpinner.csproj", "{A982E727-FF78-4CC3-B6C0-11D06948138D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E252063-7A87-4505-B097-1DB7A49F7B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E252063-7A87-4505-B097-1DB7A49F7B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E252063-7A87-4505-B097-1DB7A49F7B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E252063-7A87-4505-B097-1DB7A49F7B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A982E727-FF78-4CC3-B6C0-11D06948138D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A982E727-FF78-4CC3-B6C0-11D06948138D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A982E727-FF78-4CC3-B6C0-11D06948138D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A982E727-FF78-4CC3-B6C0-11D06948138D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

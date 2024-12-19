@@ -1,0 +1,6 @@
+[submodule "Diese"]
+	path = Diese
+	url = https://github.com/Lminta/Diese.git
+[submodule "WireSpinner"]
+	path = WireSpinner
+	url = https://github.com/Lminta/WireSpinner.git
